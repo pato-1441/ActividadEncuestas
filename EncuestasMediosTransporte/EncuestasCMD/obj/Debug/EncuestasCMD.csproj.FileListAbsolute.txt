@@ -1,0 +1,11 @@
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasCMD.exe.config
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasCMD.exe
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasCMD.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.AssemblyReference.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.exe
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasLib.dll
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasLib.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.CopyComplete

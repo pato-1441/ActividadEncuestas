@@ -1,0 +1,6 @@
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\bin\Debug\EncuestasLib.dll
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\bin\Debug\EncuestasLib.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.AssemblyReference.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.dll
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.pdb
