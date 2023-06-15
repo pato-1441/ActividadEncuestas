@@ -1,0 +1,15 @@
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\bin\Debug\EncuestasForm.exe.config
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\bin\Debug\EncuestasForm.exe
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\bin\Debug\EncuestasForm.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.csproj.AssemblyReference.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.Properties.Resources.resources
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.csproj.GenerateResource.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.exe
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\bin\Debug\EncuestasLib.dll
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\bin\Debug\EncuestasLib.pdb
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.Form1.resources
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.csproj.CopyComplete
+C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasForm\obj\Debug\EncuestasForm.FormRegistroDeEncuesta.resources
