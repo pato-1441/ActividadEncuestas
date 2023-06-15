@@ -1,4 +1,5 @@
-# Actividad en el aula  - Encuestas - Albornoz Patricio
+# Actividad en el aula  - Encuestas
+# Albornoz Patricio
 
 Temas:
    - clases y objetos, 
