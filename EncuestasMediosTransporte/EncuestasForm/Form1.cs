@@ -35,7 +35,13 @@ namespace EncuestasForm
                 nuevo.UsaTransportePublico = formRegistro.cbUsaTransportePublico.Checked;//Consulta("¿Usa Transporte público?: S/N");
 
                 //Console.WriteLine("¿Cuál es la distancia aproximada a su destino de trabajo/estudio en km? (ej:1,5)\n");
-                nuevo.DistanciaASuDestino = Convert.ToDouble(formRegistro.tbDistancia.Text.ToString());
+                if (formRegistro.tbDistancia.Text.ToString() != "")
+                {
+                    nuevo.DistanciaASuDestino = Convert.ToDouble(formRegistro.tbDistancia.Text.ToString());
+                } else
+                {
+                    nuevo.DistanciaASuDestino = 0.00;
+                }
                 //MessageBox.Show("{0}", nuevo.DistanciaASuDestino);
 
                 bool puedeSerContactado = formRegistro.rbContactoSi.Checked;//Consulta("¿Puede ser contactado?: S/N");                
