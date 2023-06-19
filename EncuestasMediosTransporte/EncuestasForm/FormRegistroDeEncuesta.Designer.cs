@@ -35,14 +35,14 @@
             this.btnFormRegistroAceptar = new System.Windows.Forms.Button();
             this.btnFormRegistroCancelar = new System.Windows.Forms.Button();
             this.gbDistancia = new System.Windows.Forms.GroupBox();
-            this.lbPreguntaDistancia = new System.Windows.Forms.Label();
             this.tbDistancia = new System.Windows.Forms.TextBox();
+            this.lbPreguntaDistancia = new System.Windows.Forms.Label();
             this.gbContacto = new System.Windows.Forms.GroupBox();
-            this.lbContacto = new System.Windows.Forms.Label();
-            this.tbMail = new System.Windows.Forms.TextBox();
-            this.lbMail = new System.Windows.Forms.Label();
-            this.rbContactoSi = new System.Windows.Forms.RadioButton();
             this.rbContactoNo = new System.Windows.Forms.RadioButton();
+            this.rbContactoSi = new System.Windows.Forms.RadioButton();
+            this.lbMail = new System.Windows.Forms.Label();
+            this.tbMail = new System.Windows.Forms.TextBox();
+            this.lbContacto = new System.Windows.Forms.Label();
             this.gbFormRegistroTransporte.SuspendLayout();
             this.gbDistancia.SuspendLayout();
             this.gbContacto.SuspendLayout();
@@ -121,6 +121,13 @@
             this.gbDistancia.TabStop = false;
             this.gbDistancia.Text = "Distancia";
             // 
+            // tbDistancia
+            // 
+            this.tbDistancia.Location = new System.Drawing.Point(187, 37);
+            this.tbDistancia.Name = "tbDistancia";
+            this.tbDistancia.Size = new System.Drawing.Size(100, 20);
+            this.tbDistancia.TabIndex = 1;
+            // 
             // lbPreguntaDistancia
             // 
             this.lbPreguntaDistancia.AutoSize = true;
@@ -129,13 +136,6 @@
             this.lbPreguntaDistancia.Size = new System.Drawing.Size(383, 13);
             this.lbPreguntaDistancia.TabIndex = 0;
             this.lbPreguntaDistancia.Text = "¿Cuál es la distancia aproximada a su destino de trabajo/estudio en km? (ej:1,5)";
-            // 
-            // tbDistancia
-            // 
-            this.tbDistancia.Location = new System.Drawing.Point(187, 37);
-            this.tbDistancia.Name = "tbDistancia";
-            this.tbDistancia.Size = new System.Drawing.Size(100, 20);
-            this.tbDistancia.TabIndex = 1;
             // 
             // gbContacto
             // 
@@ -151,31 +151,17 @@
             this.gbContacto.TabStop = false;
             this.gbContacto.Text = "Contacto";
             // 
-            // lbContacto
+            // rbContactoNo
             // 
-            this.lbContacto.AutoSize = true;
-            this.lbContacto.Location = new System.Drawing.Point(9, 20);
-            this.lbContacto.Name = "lbContacto";
-            this.lbContacto.Size = new System.Drawing.Size(124, 13);
-            this.lbContacto.TabIndex = 0;
-            this.lbContacto.Text = "¿Puede ser contactado?";
-            // 
-            // tbMail
-            // 
-            this.tbMail.Enabled = false;
-            this.tbMail.Location = new System.Drawing.Point(186, 102);
-            this.tbMail.Name = "tbMail";
-            this.tbMail.Size = new System.Drawing.Size(100, 20);
-            this.tbMail.TabIndex = 3;
-            // 
-            // lbMail
-            // 
-            this.lbMail.AutoSize = true;
-            this.lbMail.Location = new System.Drawing.Point(186, 86);
-            this.lbMail.Name = "lbMail";
-            this.lbMail.Size = new System.Drawing.Size(36, 13);
-            this.lbMail.TabIndex = 4;
-            this.lbMail.Text = "E-Mail";
+            this.rbContactoNo.AutoSize = true;
+            this.rbContactoNo.Location = new System.Drawing.Point(186, 64);
+            this.rbContactoNo.Name = "rbContactoNo";
+            this.rbContactoNo.Size = new System.Drawing.Size(39, 17);
+            this.rbContactoNo.TabIndex = 6;
+            this.rbContactoNo.TabStop = true;
+            this.rbContactoNo.Text = "No";
+            this.rbContactoNo.UseVisualStyleBackColor = true;
+            this.rbContactoNo.CheckedChanged += new System.EventHandler(this.rbContactoNo_CheckedChanged);
             // 
             // rbContactoSi
             // 
@@ -187,17 +173,34 @@
             this.rbContactoSi.TabStop = true;
             this.rbContactoSi.Text = "Si";
             this.rbContactoSi.UseVisualStyleBackColor = true;
+            this.rbContactoSi.CheckedChanged += new System.EventHandler(this.rbContactoSi_CheckedChanged);
             // 
-            // rbContactoNo
+            // lbMail
             // 
-            this.rbContactoNo.AutoSize = true;
-            this.rbContactoNo.Location = new System.Drawing.Point(186, 64);
-            this.rbContactoNo.Name = "rbContactoNo";
-            this.rbContactoNo.Size = new System.Drawing.Size(39, 17);
-            this.rbContactoNo.TabIndex = 6;
-            this.rbContactoNo.TabStop = true;
-            this.rbContactoNo.Text = "No";
-            this.rbContactoNo.UseVisualStyleBackColor = true;
+            this.lbMail.AutoSize = true;
+            this.lbMail.Location = new System.Drawing.Point(186, 86);
+            this.lbMail.Name = "lbMail";
+            this.lbMail.Size = new System.Drawing.Size(36, 13);
+            this.lbMail.TabIndex = 4;
+            this.lbMail.Text = "E-Mail";
+            // 
+            // tbMail
+            // 
+            this.tbMail.CharacterCasing = System.Windows.Forms.CharacterCasing.Lower;
+            this.tbMail.Enabled = false;
+            this.tbMail.Location = new System.Drawing.Point(186, 102);
+            this.tbMail.Name = "tbMail";
+            this.tbMail.Size = new System.Drawing.Size(100, 20);
+            this.tbMail.TabIndex = 3;
+            // 
+            // lbContacto
+            // 
+            this.lbContacto.AutoSize = true;
+            this.lbContacto.Location = new System.Drawing.Point(9, 20);
+            this.lbContacto.Name = "lbContacto";
+            this.lbContacto.Size = new System.Drawing.Size(124, 13);
+            this.lbContacto.TabIndex = 0;
+            this.lbContacto.Text = "¿Puede ser contactado?";
             // 
             // FormRegistroDeEncuesta
             // 

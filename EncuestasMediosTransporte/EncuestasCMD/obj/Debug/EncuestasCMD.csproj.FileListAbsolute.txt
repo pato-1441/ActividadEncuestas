@@ -9,3 +9,14 @@ C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasC
 C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasLib.dll
 C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasLib.pdb
 C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.CopyComplete
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasCMD.exe.config
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasCMD.exe
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasCMD.pdb
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasLib.dll
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\bin\Debug\EncuestasLib.pdb
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.AssemblyReference.cache
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.SuggestedBindingRedirects.cache
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.CoreCompileInputs.cache
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.csproj.CopyComplete
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.exe
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasCMD\obj\Debug\EncuestasCMD.pdb

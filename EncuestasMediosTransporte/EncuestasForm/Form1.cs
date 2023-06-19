@@ -35,7 +35,7 @@ namespace EncuestasForm
                 nuevo.UsaTransportePublico = formRegistro.cbUsaTransportePublico.Checked;//Consulta("¿Usa Transporte público?: S/N");
 
                 //Console.WriteLine("¿Cuál es la distancia aproximada a su destino de trabajo/estudio en km? (ej:1,5)\n");
-                nuevo.DistanciaASuDestino = Convert.ToDouble(formRegistro.tbDistancia.Text);
+                nuevo.DistanciaASuDestino = Convert.ToDouble(formRegistro.tbDistancia.Text.ToString());
                 //MessageBox.Show("{0}", nuevo.DistanciaASuDestino);
 
                 bool puedeSerContactado = formRegistro.rbContactoSi.Checked;//Consulta("¿Puede ser contactado?: S/N");                
@@ -43,7 +43,7 @@ namespace EncuestasForm
                 {
                     MessageBox.Show("Pusiste que si");
                     nuevo.Email = formRegistro.tbMail.Text.ToString();//Console.ReadLine();
-                    formRegistro.tbMail.Enabled = true;
+                    MessageBox.Show(nuevo.Email);
                 }
 
                 proceso.RegistrarEncuesta(nuevo, puedeSerContactado);

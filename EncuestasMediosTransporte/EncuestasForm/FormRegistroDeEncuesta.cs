@@ -16,5 +16,15 @@ namespace EncuestasForm
         {
             InitializeComponent();
         }
+
+        private void rbContactoSi_CheckedChanged(object sender, EventArgs e)
+        {
+            tbMail.Enabled = true;
+        }
+
+        private void rbContactoNo_CheckedChanged(object sender, EventArgs e)
+        {
+            tbMail.Enabled = false;
+        }
     }
 }

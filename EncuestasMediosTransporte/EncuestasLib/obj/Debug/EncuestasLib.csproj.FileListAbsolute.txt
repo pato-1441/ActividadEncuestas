@@ -4,3 +4,9 @@ C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasL
 C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.CoreCompileInputs.cache
 C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.dll
 C:\Users\TUP\Desktop\123\ActividadEncuestas\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.pdb
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasLib\bin\Debug\EncuestasLib.dll
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasLib\bin\Debug\EncuestasLib.pdb
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.AssemblyReference.cache
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.csproj.CoreCompileInputs.cache
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.dll
+E:\Facultad\facultad-git\laboratorioI\actividadEncuesta\EncuestasMediosTransporte\EncuestasLib\obj\Debug\EncuestasLib.pdb

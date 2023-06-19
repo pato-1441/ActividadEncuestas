@@ -36,7 +36,7 @@
             // btnRegistroEncuesta
             // 
             this.btnRegistroEncuesta.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnRegistroEncuesta.Location = new System.Drawing.Point(289, 102);
+            this.btnRegistroEncuesta.Location = new System.Drawing.Point(148, 67);
             this.btnRegistroEncuesta.Name = "btnRegistroEncuesta";
             this.btnRegistroEncuesta.Size = new System.Drawing.Size(187, 46);
             this.btnRegistroEncuesta.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(289, 154);
+            this.button1.Location = new System.Drawing.Point(148, 128);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(187, 46);
             this.button1.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(289, 206);
+            this.btnSalir.Location = new System.Drawing.Point(148, 190);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(187, 46);
             this.btnSalir.TabIndex = 2;
@@ -67,7 +67,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(488, 311);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnRegistroEncuesta);
